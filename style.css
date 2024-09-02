@@ -1,0 +1,87 @@
+
+body
+{
+	color: white;
+	background-image: url(wall.webp);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.divi
+{
+	background:transparent;
+	text-align: center;
+    border-style: dotted;
+    height: 300px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-width: 2px;
+    padding-left: 20px;
+    border-color: black;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.user
+{
+	border-radius: 20px;
+	font-family: cursive;
+	text-indent: 10px;
+	margin-bottom: 20px;
+	padding-right: 150px;
+	padding-top: 10px;
+}
+.pass
+{
+	text-indent: 10px;
+	border-radius: 20px;
+	font-family: cursive;
+	padding-right: 150px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+
+}
+.dis
+{
+	display: inline;
+	margin-left:0px;
+	margin-right: 20px;
+
+}
+.para
+{
+	display: inline;
+	text-decoration: none;
+	color: white;
+}
+.para:hover
+{
+	text-decoration: underline;
+}
+.button
+{
+	border-radius: 20px;
+	background-color: white;
+    color: black;
+	margin-top: 20px;
+	text-indent: 100px;
+	padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+.p2
+{
+	display: inline;
+	margin-top: 20px;
+}
+.an{
+	margin-top: 20px;
+	display: inline;
+	text-decoration: none;
+    color: white}
+
+
+
+
